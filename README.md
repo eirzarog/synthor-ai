@@ -97,7 +97,7 @@ Make sure you have the following prerequisites installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/eirzarog/synthorAI.git
+git clone https://github.com/eirzarog/synthor-ai.git
 ```
 
 ### PostgreSQL Configuration
