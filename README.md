@@ -1,6 +1,6 @@
 # Synthor - A Chat GPT clone application 
 
-This project is an AI-powered RESTful API web services application built with Spring Boot (backend) and React/Next.js (frontend). 
+This project is an AI‑powered RESTful web application built with a Spring Boot backend and a React/Next.js frontend.
 
 ## Desktop application screens
 <br> 
